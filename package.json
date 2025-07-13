@@ -1,6 +1,6 @@
 {
   "name": "minecraft-mquery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern Node.js library for Minecraft servers that can retrieve status and perform queries",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -43,11 +43,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gh0st-vip/minecraft-mquery"
+    "url": "https://github.com/gh0stdotvip/minecraft-mquery"
   },
-  "homepage": "https://github.com/gh0st-vip/minecraft-mquery#readme",
+  "homepage": "https://github.com/gh0stdotvip/minecraft-mquery#readme",
   "bugs": {
-    "url": "https://github.com/gh0st-vip/minecraft-mquery/issues"
+    "url": "https://github.com/gh0stdotvip/minecraft-mquery/issues"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
