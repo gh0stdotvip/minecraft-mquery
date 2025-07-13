@@ -1,0 +1,18 @@
+# Wyklucz wszystko poza buildem i dokumentacją
+src/
+examples/
+__tests__/
+test/
+cli.ts
+jest.config.js
+zalety.md
+node_modules/
+tsconfig.json
+.eslintrc.json
+*.log
+!README.md
+.git/
+.gitignore
+.vscode/
+.idea/
+.DS_Store 
